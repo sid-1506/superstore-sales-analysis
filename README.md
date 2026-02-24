@@ -49,7 +49,7 @@ The goal was to analyze revenue trends, identify top-performing categories and p
 
 Category-wise Sales Bar Chart:
 
-Graph.png
+![Category Wise Sales](Graph.png)
 
 ---
 
